@@ -10,11 +10,11 @@ N'hésitez pas à contribuer.
 
 * [Cours Python 3 pour la programmation scientifique de David Cassagne](https://courspython.com/)
 
-* [Cours de Programmation Python Ricco Rakotomalala à Lyon 2](http://eric.univ-lyon2.fr/~ricco/cours/cours_programmation_python.html)
+* [Cours de Programmation Python de Ricco Rakotomalala à Lyon 2](http://eric.univ-lyon2.fr/~ricco/cours/cours_programmation_python.html)
 
 * [Python pour un Data Scientist / Economiste par Xavier Dupré](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/td_2a.html)
 
-* [Python pour les biologistes du Paris Diderot](https://python.sdv.univ-paris-diderot.fr/)
+* [Python pour les biologistes de l'université Paris Diderot](https://python.sdv.univ-paris-diderot.fr/)
 
 * [Pleins de tutoriels avec Python data](http://tutoriels-data-mining.blogspot.com/search/label/Python)
 
@@ -30,7 +30,7 @@ N'hésitez pas à contribuer.
 
 ## Des livres :books:
 
-Parcequ'il reste quelques lecteurs...
+Car il reste quelques lecteurs...
 
 * [Python pour le data scientist par Emmanuel Jakobowicz](https://www.dunod.com/sciences-techniques/python-pour-data-scientist-bases-du-langage-au-machine-learning-0)
 
@@ -45,10 +45,10 @@ Parcequ'il reste quelques lecteurs...
 
 ## Des conférences et meetups
 
-* Bien entendu, le meetup PyDataParis que vous pouvez suivre aussi sur twitter @PyDataParis
+* Bien entendu, le meetup PyDataParis que vous pouvez suivre aussi sur twitter [@PyDataParis](https://twitter.com/pydataparis?lang=fr)
 [https://www.meetup.com/fr-FR/PyData-Paris](https://www.meetup.com/fr-FR/PyData-Paris)
 
-* Les conférences PyConFr pour toute la communauté :
+* Les conférences PyConFr pour toute la communauté python francophone (pas que les data) :
 [https://www.pycon.fr/](https://www.pycon.fr/)
 
 On espère beaucoup d'autres prochainement.
