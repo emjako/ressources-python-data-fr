@@ -2,7 +2,7 @@
 
 L'objectif de cette page est de rassembler le plus possible de ressources sur la communauté Python lié à la data en France ou en français.
 
-La complexité pour retrouver des ressources est surtout liée à la quantité d'informations disponibles en ligne notamment sur le langage Python au sens large. Notre objectif n'est pas ici de rassemblé toutes les ressources sur Python mais de nous concentrer sur le domaine de la data.
+La complexité pour retrouver des ressources est surtout liée à la quantité d'informations disponibles en ligne notamment sur le langage Python au sens large. Notre objectif n'est pas ici de rassembler toutes les ressources sur Python mais de nous concentrer sur le domaine de la data.
 
 N'hésitez pas à contribuer.
 
@@ -42,6 +42,25 @@ Car il reste quelques lecteurs...
 
 * [Le machine learning avec python par Sarah Guido et Andreas C. Muller](https://www.eyrolles.com/Informatique/Livre/le-machine-learning-avec-python-9782412034460/)
 
+## Les docs python
+
+* [La doc python en français](https://docs.python.org/fr/3/)
+
+#### Les docs en anglais (c'est toujours utile quand on n'a pas de français)
+
+* [Numpy](https://numpy.org/)
+* [Scipy](https://www.scipy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Scikit-learn](https://scikit-learn.org/stable/)
+* [Statsmodels](http://www.statsmodels.org/stable/index.html)
+* [Scikit-image](https://scikit-image.org/)
+* [TensorFlow](https://www.tensorflow.org/)
+* [PyTorch](https://pytorch.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [Jupyter](https://jupyter.org/)
+
+Et bien d'autres...
 
 ## Des conférences et meetups
 
