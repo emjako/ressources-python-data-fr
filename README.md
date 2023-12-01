@@ -50,40 +50,40 @@ Car il reste quelques lecteurs...
 #### Les docs en anglais (c'est toujours utile quand on n'a pas de français)
 
 * Manipulation de données :
- * [Numpy](https://numpy.org/)
- * [Scipy](https://www.scipy.org/)
- * [Pandas](https://pandas.pydata.org/)
- * [Arrow](https://arrow.apache.org/docs/python/index.html)
- * [Polars](https://pola.rs/)
+    * [Numpy](https://numpy.org/)
+    * [Scipy](https://www.scipy.org/)
+    * [Pandas](https://pandas.pydata.org/)
+    * [Arrow](https://arrow.apache.org/docs/python/index.html)
+    * [Polars](https://pola.rs/)
 * Machine learning
- * [Scikit-learn](https://scikit-learn.org/stable/)
- * [XGboost] (https://xgboost.readthedocs.io/en/stable/index.html)
+    * [Scikit-learn](https://scikit-learn.org/stable/)
+    * [XGboost](https://xgboost.readthedocs.io/en/stable/index.html)
 * Statistiques
- * [Statsmodels](http://www.statsmodels.org/stable/index.html)
+    * [Statsmodels](http://www.statsmodels.org/stable/index.html)
 * Deep learning
- * [TensorFlow](https://www.tensorflow.org/)
- * [PyTorch](https://pytorch.org/)
- * [transformers](https://huggingface.co/docs/transformers/index)
+    * [TensorFlow](https://www.tensorflow.org/)
+    * [PyTorch](https://pytorch.org/)
+    * [transformers](https://huggingface.co/docs/transformers/index)
 * Data visualisation
- * [Matplotlib](https://matplotlib.org/)
- * [Seaborn](https://seaborn.pydata.org/)
- * [Plotly](https://plotly.com/)
- * [Dash](https://dash.plotly.com/)
- * [Streamlit](https://streamlit.io/)
- * [Bokeh](https://bokeh.org/)
+    * [Matplotlib](https://matplotlib.org/)
+    * [Seaborn](https://seaborn.pydata.org/)
+    * [Plotly](https://plotly.com/)
+    * [Dash](https://dash.plotly.com/)
+    * [Streamlit](https://streamlit.io/)
+    * [Bokeh](https://bokeh.org/)
 * Carto
- * [Cartopy]
- * [GeoPandas]
- * [Folium]
- * [Shapely]
+    * [Cartopy](https://scitools.org.uk/cartopy/docs/latest/)
+    * [GeoPandas](https://geopandas.org/en/stable/)
+    * [Folium](https://python-visualization.github.io/folium/latest/)
+    * [Shapely](https://shapely.readthedocs.io/en/stable/manual.html)
 * IDE
- * [Jupyter](https://jupyter.org/)
- * [VS Code](https://code.visualstudio.com/)
- * [Spyder](https://www.spyder-ide.org/)
- * [PyCharm](https://www.jetbrains.com/fr-fr/pycharm/)
+    * [Jupyter](https://jupyter.org/)
+    * [VS Code](https://code.visualstudio.com/)
+    * [Spyder](https://www.spyder-ide.org/)
+    * [PyCharm](https://www.jetbrains.com/fr-fr/pycharm/)
 * Autres
- * [Scikit-image](https://scikit-image.org/)
- * [librosa](https://librosa.org/doc/latest/index.html)
+    * [Scikit-image](https://scikit-image.org/)
+    * [librosa](https://librosa.org/doc/latest/index.html)
 
 Et bien d'autres...
 
