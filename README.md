@@ -10,7 +10,7 @@ N'hésitez pas à contribuer.
 
 * [Cours Python 3 pour la programmation scientifique de David Cassagne](https://courspython.com/)
 
-* [Cours de Programmation Python de Ricco Rakotomalala à Lyon 2](http://eric.univ-lyon2.fr/~ricco/cours/cours_programmation_python.html)
+* [Cours de Programmation Python de Ricco Rakotomalala](https://cours-machine-learning.blogspot.com/p/python-data-science.html)
 
 * [Python pour un Data Scientist / Economiste par Xavier Dupré](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/td_2a.html)
 
@@ -27,18 +27,19 @@ N'hésitez pas à contribuer.
 
 * [Initiez-vous à Python pour l'analyse de données avec OpenClassrooms](https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees)
 
+* [Machine learning in Python with scikit-learn](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
 
 ## Des livres :books:
 
 Car il reste quelques lecteurs...
 
-* [Python pour le data scientist par Emmanuel Jakobowicz](https://www.dunod.com/sciences-techniques/python-pour-data-scientist-bases-du-langage-au-machine-learning-0)
+* [Python pour le data scientist par Emmanuel Jakobowicz](https://www.dunod.com/sciences-techniques/python-pour-data-scientist-bases-du-langage-au-machine-learning-1)
 
 * [Programmation en Python pour les sciences de la vie par Patrick Fuchs et Pierre Poulain](https://www.dunod.com/sciences-techniques/programmation-en-python-pour-sciences-vie)
 
 #### Et quelques traductions :
 
-* [Machine Learning avec Scikit-Learn - 2e édition par Aurélien Géron](https://www.dunod.com/sciences-techniques/machine-learning-avec-scikit-learn-mise-en-oeuvre-et-cas-concrets-0)
+* [Machine Learning avec Scikit-Learn - 3e édition par Aurélien Géron](https://www.dunod.com/sciences-techniques/machine-learning-avec-scikit-learn-mise-en-oeuvre-et-cas-concrets-1)
 
 * [Le machine learning avec python par Sarah Guido et Andreas C. Muller](https://www.eyrolles.com/Informatique/Livre/le-machine-learning-avec-python-9782412034460/)
 
@@ -48,17 +49,41 @@ Car il reste quelques lecteurs...
 
 #### Les docs en anglais (c'est toujours utile quand on n'a pas de français)
 
-* [Numpy](https://numpy.org/)
-* [Scipy](https://www.scipy.org/)
-* [Pandas](https://pandas.pydata.org/)
-* [Scikit-learn](https://scikit-learn.org/stable/)
-* [Statsmodels](http://www.statsmodels.org/stable/index.html)
-* [Scikit-image](https://scikit-image.org/)
-* [TensorFlow](https://www.tensorflow.org/)
-* [PyTorch](https://pytorch.org/)
-* [Matplotlib](https://matplotlib.org/)
-* [Seaborn](https://seaborn.pydata.org/)
-* [Jupyter](https://jupyter.org/)
+* Manipulation de données :
+ * [Numpy](https://numpy.org/)
+ * [Scipy](https://www.scipy.org/)
+ * [Pandas](https://pandas.pydata.org/)
+ * [Arrow](https://arrow.apache.org/docs/python/index.html)
+ * [Polars](https://pola.rs/)
+* Machine learning
+ * [Scikit-learn](https://scikit-learn.org/stable/)
+ * [XGboost] (https://xgboost.readthedocs.io/en/stable/index.html)
+* Statistiques
+ * [Statsmodels](http://www.statsmodels.org/stable/index.html)
+* Deep learning
+ * [TensorFlow](https://www.tensorflow.org/)
+ * [PyTorch](https://pytorch.org/)
+ * [transformers](https://huggingface.co/docs/transformers/index)
+* Data visualisation
+ * [Matplotlib](https://matplotlib.org/)
+ * [Seaborn](https://seaborn.pydata.org/)
+ * [Plotly](https://plotly.com/)
+ * [Dash](https://dash.plotly.com/)
+ * [Streamlit](https://streamlit.io/)
+ * [Bokeh](https://bokeh.org/)
+* Carto
+ * [Cartopy]
+ * [GeoPandas]
+ * [Folium]
+ * [Shapely]
+* IDE
+ * [Jupyter](https://jupyter.org/)
+ * [VS Code](https://code.visualstudio.com/)
+ * [Spyder](https://www.spyder-ide.org/)
+ * [PyCharm](https://www.jetbrains.com/fr-fr/pycharm/)
+* Autres
+ * [Scikit-image](https://scikit-image.org/)
+ * [librosa](https://librosa.org/doc/latest/index.html)
 
 Et bien d'autres...
 
