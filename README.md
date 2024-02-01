@@ -1,6 +1,6 @@
 ## Présentation
 
-L'objectif de cette page est de rassembler le plus possible de ressources sur la communauté Python lié à la data en France ou en français.
+L'objectif de cette page est de rassembler le plus possible de ressources sur la communauté Python lié à la data avec une priorité sur les ressources en français (mais ça n'est pas toujours possible).
 
 La complexité pour retrouver des ressources est surtout liée à la quantité d'informations disponibles en ligne notamment sur le langage Python au sens large. Notre objectif n'est pas ici de rassembler toutes les ressources sur Python mais de nous concentrer sur le domaine de la data.
 
@@ -18,6 +18,7 @@ N'hésitez pas à contribuer.
 
 * [Pleins de tutoriels avec Python data](http://tutoriels-data-mining.blogspot.com/search/label/Python)
 
+* [Python pour la data science, cours de Lino Galiana à l'ENSAE](https://pythonds.linogaliana.fr/)
 
 ## Des MOOC et formations en ligne
 
@@ -42,6 +43,17 @@ Car il reste quelques lecteurs...
 * [Machine Learning avec Scikit-Learn - 3e édition par Aurélien Géron](https://www.dunod.com/sciences-techniques/machine-learning-avec-scikit-learn-mise-en-oeuvre-et-cas-concrets-1)
 
 * [Le machine learning avec python par Sarah Guido et Andreas C. Muller](https://www.eyrolles.com/Informatique/Livre/le-machine-learning-avec-python-9782412034460/)
+
+## Pour vous entraîner (malheureusement pas en français) :
+
+* [Kaggle pour avoir des données, des notebooks et mêmes des compétitions](https://www.kaggle.com/)
+
+* [Pour des données adaptées au Machine Learning, on peut toujours utiliser UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
+
+* [Colab de Google qui met à disposition un environnement de Notebooks et même un peu de GPU](https://colab.research.google.com/)
+
+* [Enormément de Notebooks Jupyter pour maîtriser de nombreux aspect de python en data science (ML, DL, pandas, numpy...)](https://github.com/donnemartin/data-science-ipython-notebooks)
+
 
 ## Les docs python
 
@@ -101,4 +113,4 @@ On espère beaucoup d'autres prochainement.
 
 * [Le forum de developpez.net](https://www.developpez.net/forums/f922/autres-langages/python/calcul-scientifique/)
 
-* Un nouveau groupe Slack qui débute sur le sujet : [https://pythondatafr.slack.com/](https://pythondatafr.slack.com/)
+
