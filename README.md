@@ -1,4 +1,4 @@
-## Présentation
+# Ressources python en français
 
 L'objectif de cette page est de rassembler le plus possible de ressources sur la communauté Python lié à la data avec une priorité sur les ressources en français (mais ça n'est pas toujours possible).
 
