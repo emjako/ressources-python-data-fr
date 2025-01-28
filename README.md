@@ -8,17 +8,16 @@ N'hésitez pas à contribuer.
 
 ## Des contenus pédagogiques en ligne
 
+* [Python pour la data science, cours de Lino Galiana à l'ENSAE](https://pythonds.linogaliana.fr/)
+
 * [Cours Python 3 pour la programmation scientifique de David Cassagne](https://courspython.com/)
 
 * [Cours de Programmation Python de Ricco Rakotomalala](https://cours-machine-learning.blogspot.com/p/python-data-science.html)
-
-* [Python pour un Data Scientist / Economiste par Xavier Dupré](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/td_2a.html)
 
 * [Python pour les biologistes de l'université Paris Diderot](https://python.sdv.univ-paris-diderot.fr/)
 
 * [Pleins de tutoriels avec Python data](http://tutoriels-data-mining.blogspot.com/search/label/Python)
 
-* [Python pour la data science, cours de Lino Galiana à l'ENSAE](https://pythonds.linogaliana.fr/)
 
 ## Des MOOC et formations en ligne
 
@@ -34,9 +33,9 @@ N'hésitez pas à contribuer.
 
 Car il reste quelques lecteurs...
 
-* [Python pour le data scientist par Emmanuel Jakobowicz](https://www.dunod.com/sciences-techniques/python-pour-data-scientist-bases-du-langage-au-machine-learning-1)
+* [Python pour le data scientist par Emmanuel Jakobowicz](https://www.dunod.com/sciences-techniques/python-pour-data-scientist-bases-du-langage-au-machine-learning-2)
 
-* [Programmation en Python pour les sciences de la vie par Patrick Fuchs et Pierre Poulain](https://www.dunod.com/sciences-techniques/programmation-en-python-pour-sciences-vie)
+* [Programmation en Python pour les sciences de la vie par Patrick Fuchs et Pierre Poulain](https://www.dunod.com/sciences-techniques/programmation-en-python-pour-sciences-vie-0)
 
 #### Et quelques traductions :
 
@@ -101,8 +100,8 @@ Et bien d'autres...
 
 ## Des conférences et meetups
 
-* Bien entendu, le meetup PyDataParis que vous pouvez suivre aussi sur twitter [@PyDataParis](https://twitter.com/pydataparis?lang=fr)
-[https://www.meetup.com/fr-FR/PyData-Paris](https://www.meetup.com/fr-FR/PyData-Paris)
+* La conférence PyDataParis, prochaine session en septembre 2025 : [https://pydata.org/paris2025](https://pydata.org/paris2025)
+* Bien entendu, le meetup PyDataParis [https://www.meetup.com/fr-FR/PyData-Paris](https://www.meetup.com/fr-FR/PyData-Paris)
 
 * Les conférences PyConFr pour toute la communauté python francophone (pas que les data) :
 [https://www.pycon.fr/](https://www.pycon.fr/)
